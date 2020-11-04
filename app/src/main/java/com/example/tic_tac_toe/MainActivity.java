@@ -1,4 +1,4 @@
-package com.example.findage;
+package com.example.tic_tac_toe;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -14,6 +14,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.SearchView;
 import android.widget.Toast;
+
+import com.example.findage.R;
 
 import java.sql.Time;
 import java.util.ArrayList;
